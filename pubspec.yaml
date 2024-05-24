@@ -5,7 +5,7 @@ publish_to: none
 
 environment:
   sdk: '>=3.2.0 <4.0.0'
-  flutter: 3.16.0
+  flutter: 3.22.1
 
 dependencies:
   app_ui:
@@ -30,7 +30,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   font_awesome_flutter: ^10.6.0
-  intl: ^0.18.0
+  intl: 
   leaderboard_repository:
     path: packages/leaderboard_repository
   leap: ^0.2.1
