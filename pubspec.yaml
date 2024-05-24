@@ -23,7 +23,7 @@ dependencies:
   flame: ^1.10.0
   flame_behaviors: ^1.0.0
   flame_tiled: ^1.15.0
-  flow_builder: ^0.0.9
+  flow_builder: ^0.1.0
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.3
